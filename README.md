@@ -10,6 +10,11 @@ Microsoft Mojang know shit about Minecraft, any one person knows more about Mine
 
 [**Mod list(模组列表)**](INCLUDED-MODS.md)
 
+There is a kind of "precious", called "only when you lose you know precious".  
+有一种 "珍贵"，叫做 "失去才知道珍贵"。  
+You never question and care about all the precious things you have, until you lose it and you realize it is so unique.  
+你从来不会质疑和在意你所拥有的一切珍贵事物，直到你失去它，你才意识到它是那么的独一无二。
+
 Q&A:
 Q:What is the difference between your modpack and other modpacks based on the original style?  
 你的整合包和其它基于原版风格的mod包有什么不同之处吗？  
