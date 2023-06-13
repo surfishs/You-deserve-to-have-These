@@ -1,4 +1,4 @@
-# You deserve to have These (你理应拥有这些)
+# You deserve to have These<br>你理应拥有这些
 
 A fabric-based Minecraft modpack dedicated to allowing you to enjoy the features that should have belonged to Minecraft.  
 一个基于Farbic的Minecraft模组整合包，致力于让你享受到本该属于Minecraft的功能。  
@@ -6,9 +6,9 @@ A fabric-based Minecraft modpack dedicated to allowing you to enjoy the features
 Microsoft Mojang know shit about Minecraft, any one person knows more about Minecraft than it.  
 微软Mojang懂个屁的Minecraft，任何一个人都比它更懂Minecraft。
 
-## Differences and Features (差异和特色)
+## Differences and Features<br>差异和特色
 
-[**Mod list(模组列表)**](INCLUDED-MODS.md)  
+[**📜Mod list(模组列表)**](INCLUDED-MODS.md)  
 Fully client-side! (You can use it on almost all of the original servers!)  
 完全客户端! (你可以在几乎所有的原版服务器上使用它！)  
 [Warning: Because the modpack contains client-side components that modify game mechanics, using this modpack on most PVP servers and servers with stricter anti-cheat will result in you being banned. But that means it's perfectly viable to use it on servers with lax anti-cheating! (Mods that will be judged primarily as cheats are already marked in the mods list, so you can check exactly what they do and remove them at any time if you want)]  
@@ -35,23 +35,17 @@ There are many, many changes, many, many additions, why I call this modpack "You
 It's hard to even feel the slight changes made by this modpack, until one day you stop using this modpack and use a modpack made by someone else, and suddenly you realize - "all those features that seem to you to be there as they should be are from this modpack".  
 你甚至很难感受到这个整合包做出的一些细微改动，直到有一天你不再使用这个整合包，而用其他人制作的整合包的时候，你会突然发现————“那些在你看来都是理所应当存在的功能都是源自这个整合包”。
 
-## Accessibility
+## Good after-sales experience (although we don't sell anything)<br>良好的售后体验（虽然我们不销售任何东西）
 
-Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
-
-* The first-run accessibility screen introduced in 1.19.4 is _not_ used, to make the initial run experience smoother and faster. Instead, users can continue to take advantage of the extended keyboard support included in said version.
-  * Languages screen can be accessed by pressing "right arrow" and "enter"
-  * Accessibility screen can be accessed by pressing "left arrow", "left arrow" and "enter"
-* Users can search for and select multiple languages
-  * Selecting multiple languages is useful for users who know several, and for languages with variants (like Spanish), to ensure mods are translated as much as possible
-  * Items have the original names on their tooltips for command usage purposes
-* Game controllers are supported
-* [Several launchers are supported](#downloads)
-* [The purpose and settings for each included mod are displayed in the mod menu](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#resource-packs)
-* Splash screen is black, similar to Bedrock Edition
-* Other [changed options](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) to match users' expectations
-
-## Disclaimers
+The makers of the You-deserve-to-have-These modpack worked tirelessly to improve the modpack until the current version was stable and there was nowhere else to improve.  
+Unlike other modpack makers who just put mods together, You-deserve-to-have-These modpack makers will modify the configuration of each mod based on the user's experience, find out the bugs in those mods, and actively contact the mod authors to fix them.  
+You can give feedback to the You-deserve-to-have-These modpack maker on this github about the problems you encountered in the game, and entrust him to fix them for you by asking him to help you contact the mod authors to fix them.  
+You-deserve-to-have-These的整合包制作者不知疲倦的改善这个整合包，直到当前版本趋于稳定，无处可以改进的时候。  
+不同于其它整合包制作者只是将模组们拼凑在一起，You-deserve-to-have-These的整合包制作者会根据用户的使用体验去修改每个模组的配置，并找出那些模组中存在的错误，积极的联系模组作者修复它们。  
+你可以在这个github反馈给You-deserve-to-have-These的整合包制作者你在游戏中遇到的问题，并委托他为你进行修复，委托他帮助你联系模组的作者去修复。  
+There are too many contact records for me to show here, but the contributions made by user "Surfish" in the Minecraft community are real.  
+有太多的联系记录我没法在这里展示，但用户“Surfish”在Minecraft社区所做的贡献是真实存在的。
+## 免责声明
 
 By using this modpack, you agree to the following:
 
@@ -64,30 +58,3 @@ By using this modpack, you agree to the following:
     * On servers where Mojang's chat reporting is optional, the modpack opts out of it for the playing user - adhering to server's intent. Chat status icons are changed to provide more accurate information about the signing state of the server. [Read more](https://fabulously-optimized.gitbook.io/modpack/readme/chat-reporting-faq).
 * Fabulously Optimized does not host any capes or other cosmetics, nor does it encourage users to buy them from any provider. Instead, the modpack encourages users to [prefer free cosmetics](https://fabulously-optimized.gitbook.io/modpack/readme/free-cape), while also giving them options to use any paid cosmetics they've previously obtained from certain providers.  
 * Yes, you can fork/remix this pack [according to the license](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/LICENSE.md). You cannot, however, use the "Fabulously Optimized" name or logo to _represent_ your fork (but you can mention that you forked it).
-
-<br>
-<details>
-  
-  <summary>Free badges for forks <a href="https://intergrav.github.io/devins-badges-docs">by Devin</a></summary>
-  
-  <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg"></a>
-  
-  Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
-  ```html
-  <!-- Markdown -->
-  [![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_64h.png)](https://github.com/Fabulously-Optimized/fabulously-optimized)
-
-  <!-- HTML (resizeable) -->
-  <img alt="Built on Fabulously Optimized" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/built-with/fabulously-optimized_vector.svg">
-  ```
-  <a href="https://github.com/Fabulously-Optimized/fabulously-optimized"><img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg"></a>
-  
-  Markdown and HTML for Modrinth/GitHub below; for CurseForge just select and copy the image to get it with the link.
-  ```html
-  <!-- Markdown -->
-  ![Built on Fabulously Optimized](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_46h.png)
-  <!-- HTML (resizeable) -->
-  <img alt="Built on Fabulously Optimized" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/built-with/fabulously-optimized_vector.svg">
-  ```
-  
-</details>
