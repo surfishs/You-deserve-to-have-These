@@ -22,6 +22,7 @@ But they are like the dust that exists in life, seemingly meaningless, but actua
 但它们就像是生活中存在的灰尘，看起来没意义，但实际上却是雨水形成的关键——凝结核。  
 We miraculously merged all these seemingly dispensable things inside this modpack and made them coexist in harmony.  
 我们奇迹般的将这些看似可以舍去的事物全部合并在这个整合包里面，让它们和谐共处。  
+
 We made a lot of changes, such as disabling the rendering of the original shadows for you by default, because that looks really ugly. For example, the basic configuration of many mods has been modified for you to make them more comfortable to use, and the I'm not the first time I've seen the "Inventory Profiles Next" configuration button stay on every player's backpack page. For example, the default volume of Minecraft is adjusted for you, the weather sound is lowered and the music volume is turned off (I think most users will turn it off, at least everyone around me does).  
 我们做了很多的改动，例如为你默认禁止原版阴影的渲染，因为那看起来真的很丑。例如为你修改了很多模组的基础配置，让它们使用起来更加舒适，我不是第一次看到“一键背包整理”的配置按钮停留在每一个玩家的背包页面。例如为你将Minecraft的默认音量进行调整，将天气的声音降低，将音乐的音量关闭（我认为大多数用户都会关闭它，至少我身边的人都是这么做的）。  
 
