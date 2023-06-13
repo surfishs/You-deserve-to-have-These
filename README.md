@@ -6,18 +6,14 @@ A fabric-based Minecraft modpack dedicated to allowing you to enjoy the features
 
 Microsoft Mojang know shit about Minecraft, any one person knows more about Minecraft than it.
 
-微软mojang懂个屁的Minecraft，任何一个人都比它更懂Minecraft。
+微软Mojang懂个屁的Minecraft，任何一个人都比它更懂Minecraft。
 
+## Differences and Features
 
-[**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
+[**Mod list(模组列表)**](INCLUDED-MODS.md)
 
-<a href="https://fabulously-optimized.gitbook.io/modpack/"><img alt="Wiki" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/documentation/gitbook_vector.svg"></a> 
-<a href="https://fabulously-optimized.gitbook.io/modpack/readme/language-support"><img alt="Translate" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/translate/generic-plural_vector.svg"></a>
-
-<a href="https://fabulously-optimized.github.io/discord"><img alt="Discord" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg"></a> 
-<a href="https://floss.social/@fabulouslyoptimized"><img alt="Mastodon" height="40" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/mastodon-plural_vector.svg"></a>
-
-## Downloads
+What is the difference between my mod package and other mod packages based on the original style?
+我的整合包包和其他基于原版风格的mod包有什么不同之处吗？
 
 [![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized) [![How to install](https://i.ibb.co/FbKTDYs/github.png)](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
 
