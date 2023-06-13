@@ -8,14 +8,14 @@ Microsoft Mojang know shit about Minecraft, any one person knows more about Mine
 
 微软Mojang懂个屁的Minecraft，任何一个人都比它更懂Minecraft。
 
-## Differences and Features
+## Differences and Features (差异和特色)
 
 [**Mod list(模组列表)**](INCLUDED-MODS.md)
 
 What is the difference between my mod package and other mod packages based on the original style?
 我的整合包包和其他基于原版风格的mod包有什么不同之处吗？
 
-[![Download from CurseForge](https://cf.way2muchnoise.eu/full_fabulously-optimized_downloads%20on%20CurseForge.svg?badge_style=for_the_badge)](https://www.curseforge.com/minecraft/modpacks/fabulously-optimized/files) [![Modrinth](https://img.shields.io/modrinth/dt/fabulously-optimized?logo=modrinth&color=darkgreen&label=Download%20from%20Modrinth&style=for-the-badge)](https://modrinth.com/modpack/fabulously-optimized) [![How to install](https://i.ibb.co/FbKTDYs/github.png)](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions)
+[![Modrinth]](https://modrinth.com/modpack/fabulously-optimized)
 
 Supports CurseForge Launcher, Prism Launcher, MultiMC, and vanilla launcher.
 
