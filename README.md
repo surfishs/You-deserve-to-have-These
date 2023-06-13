@@ -8,7 +8,11 @@ Microsoft Mojang know shit about Minecraft, any one person knows more about Mine
 
 ## Differences and Features (差异和特色)
 
-[**Mod list(模组列表)**](INCLUDED-MODS.md)
+[**Mod list(模组列表)**](INCLUDED-MODS.md)  
+Fully client-side! (You can use it on almost all of the original servers!)  
+完全客户端! (你可以在几乎所有的原版服务器上使用它！)  
+[Warning: Because the modpack contains client-side components that modify game mechanics, using this modpack on most PVP servers and servers with stricter anti-cheat will result in you being banned. But that means it's perfectly viable to use it on servers with lax anti-cheating! (Mods that will be judged primarily as cheats are already marked in the mods list, so you can check exactly what they do and remove them at any time if you want)]  
+[警告：因为整合包包含修改游戏机制的客户端组件，因此在大多数PVP服务器和具有较严格反作弊的服务器上使用这个整合包会导致你被封禁。但这意味着在宽松反作弊的服务器上使用它是完全可行的！（主要会被判断为作弊的模组已经在模组列表标注，如果你想，你可以查看它们具体做了什么，并随时移除它们）]  
 
 There is a kind of "precious", called "only when you lose you know precious".  
 有一种 "珍贵"，叫做 "失去才知道珍贵"。  
