@@ -13,13 +13,9 @@ Microsoft Mojang know shit about Minecraft, any one person knows more about Mine
 There is a kind of "precious", called "only when you lose you know precious".  
 有一种 "珍贵"，叫做 "失去才知道珍贵"。  
 You never question and care about all the precious things you have, until you lose it and you realize it is so unique.  
-你从来不会质疑和在意你所拥有的一切珍贵事物，直到你失去它，你才意识到它是那么的独一无二。
-
-Q&A:
-Q:What is the difference between your modpack and other modpacks based on the original style?  
-你的整合包和其它基于原版风格的mod包有什么不同之处吗？  
-A:We are more radical to change the way Minecraft works, such as adding "sodium" to modify the original rendering logic to optimize the game, such as adding "Inventory Profiles Next" and "InvMove" mods that modify the interactive nature of items to optimize the game experience.  
-我们更加激进的去改变Minecraft的运行方式，例如加入“钠”修改原版的渲染逻辑来优化游戏，例如加入“一键背包整理”和“边拿边走”这类修改物品交互性质的模组来优化游戏体验。
+你从来不会质疑和在意你所拥有的一切珍贵事物，直到你失去它，你才意识到它是那么的独一无二。  
+And here, this modpack is the "unique and precious".
+而在这，这个整合包就是那份“独一无二的珍贵。”
 
 Too often, our modpack is stuffed with mods that don't make sense, the modpack looks bloated, and those unnecessary mods look redundant.  
 很多时候，我们的整合包里塞满了意义不明的模组，整合包看起来很臃肿，那些不必要的模组看起来很多余。  
@@ -28,8 +24,8 @@ But they are like the dust that exists in life, seemingly meaningless, but actua
 We miraculously merged all these seemingly dispensable things inside this modpack and made them coexist in harmony.  
 我们奇迹般的将这些看似可以舍去的事物全部合并在这个整合包里面，让它们和谐共处。  
 
-We made a lot of changes, such as disabling the rendering of the original shadows for you by default, because that looks really ugly. For example, the basic configuration of many mods has been modified for you to make them more comfortable to use, and the I'm not the first time I've seen the "Inventory Profiles Next" configuration button stay on every player's backpack page. For example, the default volume of Minecraft is adjusted for you, the weather sound is lowered and the music volume is turned off (I think most users will turn it off, at least everyone around me does).  
-我们做了很多的改动，例如为你默认禁止原版阴影的渲染，因为那看起来真的很丑。例如为你修改了很多模组的基础配置，让它们使用起来更加舒适，我不是第一次看到“一键背包整理”的配置按钮停留在每一个玩家的背包页面。例如为你将Minecraft的默认音量进行调整，将天气的声音降低，将音乐的音量关闭（我认为大多数用户都会关闭它，至少我身边的人都是这么做的）。  
+We made a lot of changes, such as disabling the rendering of the original shadows for you by default, because that looks really ugly; For example, the basic configuration of many mods has been modified for you to make them more comfortable to use, and the I'm not the first time I've seen the "Inventory Profiles Next" configuration button stay on every player's backpack page; For example, the default volume of Minecraft is adjusted for you, the weather sound is lowered and the music volume is turned off (I think most users will turn it off, at least everyone around me does).  
+我们做了很多的改动，例如为你默认禁止原版阴影的渲染，因为那看起来真的很丑；例如为你修改了很多模组的基础配置，让它们使用起来更加舒适，我不是第一次看到“一键背包整理”的配置按钮停留在每一个玩家的背包页面；例如为你将Minecraft的默认音量进行调整，将天气的声音降低，将音乐的音量关闭（我认为大多数用户都会关闭它，至少我身边的人都是这么做的）。  
 
 There are many, many changes, many, many additions, why I call this modpack "You-deserve-to-have-These", because these changes are in line with our intuitive changes, you will not feel anything wrong with these changes.  
 还有很多很多的改动，很多很多的添加，为什么我要称呼这个整合包为“你理应拥有这些”，因为这些改动都是顺应我们直觉的改变，你并不会觉得这些变动有什么不妥。  
