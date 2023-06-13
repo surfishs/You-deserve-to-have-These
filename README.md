@@ -1,52 +1,34 @@
 # You deserve to have These (你理应拥有这些)
 
-A fabric-based Minecraft modpack dedicated to allowing you to enjoy the features that should have belonged to Minecraft.
+A fabric-based Minecraft modpack dedicated to allowing you to enjoy the features that should have belonged to Minecraft.  
+一个基于Farbic的Minecraft模组整合包，致力于让你享受到本该属于Minecraft的功能。  
 
-一个基于Farbic的Minecraft模组整合包，致力于让你享受到本该属于Minecraft的功能。
-
-Microsoft Mojang know shit about Minecraft, any one person knows more about Minecraft than it.
-
+Microsoft Mojang know shit about Minecraft, any one person knows more about Minecraft than it.  
 微软Mojang懂个屁的Minecraft，任何一个人都比它更懂Minecraft。
 
 ## Differences and Features (差异和特色)
 
 [**Mod list(模组列表)**](INCLUDED-MODS.md)
 
-What is the difference between my mod package and other mod packages based on the original style?
-我的整合包包和其他基于原版风格的mod包有什么不同之处吗？
+Q&A:
+Q:What is the difference between your modpack and other modpacks based on the original style?  
+你的整合包和其它基于原版风格的mod包有什么不同之处吗？  
+A:We are more radical to change the way Minecraft works, such as adding "sodium" to modify the original rendering logic to optimize the game, such as adding "Inventory Profiles Next" and "InvMove" mods that modify the interactive nature of items to optimize the game experience.  
+我们更加激进的去改变Minecraft的运行方式，例如加入“钠”修改原版的渲染逻辑来优化游戏，例如加入“一键背包整理”和“边拿边走”这类修改物品交互性质的模组来优化游戏体验。
 
-[![Modrinth]](https://modrinth.com/modpack/fabulously-optimized)
+Too often, our modpack is stuffed with mods that don't make sense, the modpack looks bloated, and those unnecessary mods look redundant.
+很多时候，我们的整合包里塞满了意义不明的模组，整合包看起来很臃肿，那些不必要的模组看起来很多余。
+But they are like the dust that exists in life, seemingly meaningless, but actually the key to rainwater formation - condensation nuclei.
+但它们就像是生活中存在的灰尘，看起来没意义，但实际上却是雨水形成的关键——凝结核。
+We miraculously merged all these seemingly dispensable things inside this modpack and made them coexist in harmony.
+我们奇迹般的将这些看似可以舍去的事物全部合并在这个整合包里面，让它们和谐共处。
+We made a lot of changes, such as disabling the rendering of the original shadows for you by default, because that looks really ugly. For example, the basic configuration of many mods has been modified for you to make them more comfortable to use, and the "I'm not the first time I've seen the Inventory Profiles Next" configuration button stay on every player's backpack page. For example, the default volume of Minecraft is adjusted for you, the weather sound is lowered and the music volume is turned off (I think most users will turn it off, at least everyone around me does).
+我们做了很多的改动，例如为你默认禁止原版阴影的渲染，因为那看起来真的很丑。例如为你修改了很多模组的基础配置，让它们使用起来更加舒适，“我不是第一次看到Inventory Profiles Next”的配置按钮停留在每一个玩家的背包页面。例如为你将Minecraft的默认音量进行调整，将天气的声音降低，将音乐的音量关闭（我认为大多数用户都会关闭它，至少我身边的人都是这么做的）。
 
-Supports CurseForge Launcher, Prism Launcher, MultiMC, and vanilla launcher.
-
-<details>
-  <summary>Alternative downloads</summary>
-
-_These downloads do not yet support the modpack or the mods :(_
-* [MultiMC (auto-update)](https://fabulously-optimized.gitbook.io/modpack/readme/multimc-auto-update): [1.16.5](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.16.5.auto-update.zip) | [1.17.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.2.3/Fabulously.Optimized.MC.1.17.1.auto-update.zip) | [1.18.2](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v3.12.2/Fabulously.Optimized.MC.1.18.2.auto-update.zip) | [1.19.4](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v4.10.0/Fabulously.Optimized.MC.1.19.4.auto-update.zip) | [1.20.1](https://github.com/Fabulously-Optimized/fabulously-optimized/releases/download/v5.1.0-alpha.1/Fabulously.Optimized.MC.1.20.1.auto-update.zip)
-* ~~Vanilla installer~~ [(planned)](https://github.com/Madis0/fabulously-optimized/issues/110)
-* [GitHub releases](https://github.com/Fabulously-Optimized/fabulously-optimized/releases)
-* Chat Reporting Helper resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/chat-reporting-helper) | 
-[Modrinth](https://modrinth.com/resourcepack/chat-reporting-helper) |
-[Planet Minecraft](https://www.planetminecraft.com/texture-pack/chat-reporting-helper) (bundled in FO)
-* Fast Better Grass resource pack: [CurseForge](https://www.curseforge.com/minecraft/texture-packs/fast-better-grass) | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) | [Planet Minecraft](https://www.planetminecraft.com/texture-pack/fast-better-grass) (bundled in FO)
-</details>
-
-Not sure which edition is right for you? Check this handy table!
-| Feature/Edition | [CurseForge Launcher](https://download.curseforge.com) | [Prism Launcher](https://prismlauncher.org/) | [MultiMC](https://multimc.org) | [MultiMC](https://multimc.org) (auto-update) | [Vanilla launcher](https://www.minecraft.net/en-us/download) (manual install) |
-|---|---|---|---|---|---|
-| Installation tutorial | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#curseforge-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#prism-launcher) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#multimc-auto-update) | [Tutorial](https://fabulously-optimized.gitbook.io/modpack/readme/install-instructions#minecraft-launcher-vanilla) |
-| Easy install | ✅ | ✅ | ✅ | ✅ | ❌ |
-| Easy pack upgrade | ✅ | ✅ | ❌ | ✅ | ❌ |
-| Easy pack upgrade for newer MC | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Add mods with few clicks | ✅ | ✅ | ❌ | ❌ | ❌ |
-| Supports the modpack and mods | ✅ | ●¹ | ●¹ | ❌ | ✅ |
-| Can be used offline | ❌ | ✅ | ✅ | ✅ | ✅ |
-| Linux support | ❌ | ✅ | ✅ | ✅ | ✅ |
-| Unique feature | 1-click install | Steam Deck support | Nostalgic UI | Always up to date | Familiarity |
-
-¹ Supports the modpack by increasing its download count, but not with monetary benefits.
-
+There are many, many changes, many, many additions, why I call this modpack "You-deserve-to-have-These", because these changes are in line with our intuitive changes, you will not feel anything wrong with these changes.
+还有很多很多的改动，很多很多的添加，为什么我要称呼这个整合包为“你理应拥有这些”，因为这些改动都是顺应我们直觉的改变，你并不会觉得这些变动有什么不妥。
+It's hard to even feel the slight changes made by this modpack, until one day you stop using this modpack and use a modpack made by someone else, and suddenly you realize - "all those features that seem to you to be there as they should be are from this modpack".
+你甚至很难感受到这个整合包做出的一些细微改动，直到有一天你不再使用这个整合包，而用其他人制作的整合包的时候，你会突然发现————“那些在你看来都是理所应当存在的功能都是源自这个整合包”。
 ## Accessibility
 
 Fabulously Optimized is designed to be accessible for everyone, and as such contains the following accessibility features on its latest version.
