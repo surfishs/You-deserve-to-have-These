@@ -20,14 +20,14 @@ You never question and care about all the precious things you have, until you lo
 你从来不会质疑和在意你所拥有的一切珍贵事物，直到你失去它，你才意识到它是那么的独一无二。  
 And here, this modpack is the "unique and precious".  
 而在这，这个整合包就是那份“独一无二的珍贵。”  
-
+————————  
 Too often, our modpack is stuffed with mods that don't make sense, the modpack looks bloated, and those unnecessary mods look redundant.  
 很多时候，我们的整合包里塞满了意义不明的模组，整合包看起来很臃肿，那些不必要的模组看起来很多余。  
 They are like the dust that exists in life, seemingly meaningless, but actually the key to rainwater formation - condensation nuclei.  
 它们就像是生活中存在的灰尘，看起来没意义，但实际上却是雨水形成的关键——凝结核。  
 We miraculously merged all these seemingly dispensable things into this modpack, making them coexist harmoniously and eventually producing qualitative change from quantitative change.  
 我们奇迹般的将这些看似可以舍去的事物全部合并在这个整合包里面，使得它们和谐共处，并最终从量变产生质变。  
-
+————————  
 We made a lot of changes, such as disabling the rendering of the original shadows for you by default, because that looks really ugly; For example, the basic configuration of many mods has been modified for you to make them more comfortable to use, and the I'm not the first time I've seen the "Inventory Profiles Next" configuration button stay on every player's backpack page; For example, the default volume of Minecraft is adjusted for you, the weather sound is lowered and the music volume is turned off (I think most users will turn it off, at least everyone around me does).  
 我们做了很多的改动，例如为你默认禁止原版阴影的渲染，因为那看起来真的很丑；例如为你修改了很多模组的基础配置，让它们使用起来更加舒适，我不是第一次看到“一键背包整理”的配置按钮停留在每一个玩家的背包页面；例如为你将Minecraft的默认音量进行调整，将天气的声音降低，将音乐的音量关闭（我认为大多数用户都会关闭它，至少我身边的人都是这么做的）。  
 
