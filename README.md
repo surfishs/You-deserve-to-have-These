@@ -1,6 +1,10 @@
-# Fabulously Optimized
+# You-deserve-to-have-These (你理应拥有这些)
 
-A Fabric-based Minecraft modpack focusing on performance and graphics enhancements.
+A fabric-based Minecraft modpack dedicated to allowing you to enjoy the features that should have belonged to Minecraft.
+一个基于Farbic的Minecraft模组整合包，致力于让你享受到本该属于Minecraft的功能。
+Microsoft Mojang know shit about Minecraft, any one person knows more about Minecraft than it.
+微软mojang懂个屁的Minecraft，任何一个人都比它更懂Minecraft。
+
 
 [**📜 Mod list**](INCLUDED-MODS.md) | [**🎛️ Changed options**](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options) | [**❤️ Support and contribute**](https://github.com/Fabulously-Optimized/fabulously-optimized/blob/main/CONTRIBUTING.md)
 
