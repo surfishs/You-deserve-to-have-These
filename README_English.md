@@ -43,3 +43,6 @@ There are too many contact records for me to show here, but the contributions ma
 ## Disclaimers
 
 By using this modpack, you agree to the following:
+
+* The setup of this modpack is compatible with the rules of most public third-party servers that are not PVP in nature, but it is your responsibility to verify that you are allowed to use it. By installing this modpack, you agree that the modpack author, mod developers and Mojang provide no warranty for the use of this modpack, and that every action you take with this modpack is your own.  
+* Yes, you can fork/remix this package according to the license. However, you cannot use the name or logo "You-deserve-to-have-These" to represent your fork (but you can mention that you forked it).
