@@ -2,11 +2,12 @@
 
 你可以在下面的表格中查询到每个模组具体实现了什么功能，尤其是哪些可能会在服务器上被判定为作弊功能的。  
 如果你想要删除它，你可以自己动手杀了它。  
+
 You can check the table below to find out exactly what features each mod implements, and especially which ones might be judged as cheating features on the server.  
 If you want to remove it, you can do it yourself and kill it.  
 
 ## 优化(Smooth)
-| Name（名称）| 作者(Author)| 描述(Description)|
+| 名称（Name）| 作者(Author)| 描述(Description)|
 |---|---|---|
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) | Makes beds render faster |
 | [Dynamic FPS](https://www.curseforge.com/minecraft/mc-mods/dynamic-fps) | [juliand665](https://www.curseforge.com/members/juliand665) | Renders Minecraft slower if it is in the background to reduce CPU usage |
