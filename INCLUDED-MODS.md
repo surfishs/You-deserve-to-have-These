@@ -33,17 +33,11 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 |---|---|---|
 
 
-## Alternative mods
+## 修改游戏逻辑(Modified the game logic)
 
-Mods that are usually not included in the latest modpack (may be on legacy or beta versions), but can be used as a replacement for some included ones, if these do not satisfy your needs. In the game's mod menu they are marked with a red asterisk `*`. See the wiki on [how to add](https://fabulously-optimized.gitbook.io/modpack/readme/adding-more-mods) and [how to disable](https://fabulously-optimized.gitbook.io/modpack/readme/disabling-mods) existing mods.
+这些模组修改了客户端的逻辑运行方式，以达到它所需要实现的功能，在一些服务器上可能会将你的这些行为判定为作弊行为。但是这些行为是可以被社区大部分人所接受的，不影响游戏公平，且广为传播的功能。  
+These mods modify the way the client logic works to achieve what it needs to achieve, and on some servers may judge these actions of yours as cheating. But these are behaviors that are acceptable to the majority of the community, do not affect the fairness of the game, and are widely spread features.  
 
-| Name | Author | Alternative for | Description |
-|---|---|---|---|
+| 名称（Name）| 作者(Author)| 描述(Description)|
+|---|---|---|
 | [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger) | [shedaniel](https://www.curseforge.com/members/shedaniel/) | [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | Makes advancements larger, but has no filters and maybe less datapack/mod compat |
-| [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust/) | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Makes only the beds render faster |
-| [Bobby](https://www.curseforge.com/minecraft/mc-mods/bobby) | [Johni0702](https://www.curseforge.com/members/johni0702) | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | Keeps far loaded chunks visible in servers, increasing visible render distance [(decided on a public vote)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/46#issuecomment-1067105734) |
-| [Custom Entity Models](https://www.curseforge.com/minecraft/mc-mods/custom-entity-models-cem) | [dorianpb](https://www.curseforge.com/members/dorianpb) | [Entity Model Features](https://www.curseforge.com/minecraft/mc-mods/entity-model-features) | A slightly less compatible custom entity models mod |
-| [Cull Less Leaves](https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves) | [isXander](https://www.curseforge.com/members/xanderisdev) | [MoreCulling](https://www.curseforge.com/minecraft/mc-mods/moreculling) | Makes only the leaves cull faster |
-| [Hold That Chunk](https://www.curseforge.com/minecraft/mc-mods/hold-that-chunk) | [The_TermiGator](https://www.curseforge.com/members/the_termigator) | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | Keeps far loaded chunks visible in servers to increase visible render distance, clears old chunks after 1 hr. Currently CurseForge, MultiMC and MultiMC (auto-update) include Farsight, Modrinth includes Hold That Chunk [for extended testing](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/437). |
-| [Item Model Fix](https://www.curseforge.com/minecraft/mc-mods/item-model-fix) | [Pepper_Bell](https://www.curseforge.com/members/pepper_bell/) | [Model Gap Fix](https://www.curseforge.com/minecraft/mc-mods/model-gap-fix) | Uses a different, potentially more intensive method for fixing models |
-| [Phosphor](https://www.curseforge.com/minecraft/mc-mods/phosphor) | [CaffeineMC](https://www.curseforge.com/members/jellysquid3_) | [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) | Optimizes light rendering [(decided on a public vote)](https://github.com/Fabulously-Optimized/fabulously-optimized/issues/21#issuecomment-998162829) |
