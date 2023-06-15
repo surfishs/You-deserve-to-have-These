@@ -6,7 +6,7 @@ Microsoft Mojang know shit about Minecraft, any one person knows more about Mine
 
 ## Differences and Features
 
-[**📜Mod list**](INCLUDED-MODS.md)  
+[**📜Mod list**](INCLUDED-MODS.md) |[**✨Chinese（Language）**](README.md)  
 Fully client-side! (You can use it on almost all of the original servers!)  
 [Warning: Because the modpack contains client-side components that modify game mechanics, using this modpack on most PVP servers and servers with stricter anti-cheat will result in you being banned. But that means it's perfectly viable to use it on servers with lax anti-cheating! (Mods that will be judged primarily as cheats are already marked in the mods list, so you can check exactly what they do and remove them at any time if you want)]  
 
