@@ -36,6 +36,7 @@ Mods that make other mods work. Hidden from in-game mod menu, but should not be 
 ## 修改游戏逻辑(Modified the game logic)
 
 这些模组修改了客户端的逻辑运行方式，以达到它所需要实现的功能，在一些服务器上可能会将你的这些行为判定为作弊行为。但是这些行为是可以被社区大部分人所接受的，不影响游戏公平，且广为传播的功能。  
+
 These mods modify the way the client logic works to achieve what it needs to achieve, and on some servers may judge these actions of yours as cheating. But these are behaviors that are acceptable to the majority of the community, do not affect the fairness of the game, and are widely spread features.  
 
 | 名称（Name）| 作者(Author)| 描述(Description)|
