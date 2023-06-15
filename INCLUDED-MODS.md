@@ -15,38 +15,21 @@ If you want to remove it, you can do it yourself and kill it.
 
 
 ## 美化(Pretty)
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |
-|---|---|---|---|---|---|---|---|
+| 名称（Name）| 作者(Author)| 描述(Description)|
+|---|---|---|
 
 
-## Functional
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |
-|---|---|---|---|---|---|---|---|
-| [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) | [Giselbaer](https://www.curseforge.com/members/Giselbaer) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes glitching blocks by typing /ghost (repetitively using this can likely alert staff members in-game) |
-| [Borderless Mining](https://www.curseforge.com/minecraft/mc-mods/borderless-mining) | [comp500](https://www.curseforge.com/members/comp500) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Allows you to have Minecraft in full screen and interact with a different window (disabled by default) |
-| [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) | [anar4732](https://www.curseforge.com/members/anar4732) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  | Keeps typed message history across worlds |
-| [Debugify](https://www.curseforge.com/minecraft/mc-mods/debugify) | [isXander](https://www.curseforge.com/members/xanderisdev) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Fixes [a set of bugs](https://fabulously-optimized.gitbook.io/modpack/readme/changed-options#fixed-bugs), disables sending diagnostics data to Mojang |
-| [e4mc](https://www.curseforge.com/minecraft/mc-mods/e4mc) | [skyegreen](https://www.curseforge.com/members/skyegreen/projects) |  |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Allows opening worlds to public access the same way you can open to LAN |
-| [FabricSkyBoxes Interop](https://www.curseforge.com/minecraft/mc-mods/fabricskyboxes-interop) | [FlashyReese](https://www.curseforge.com/members/flashyreese) |  |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds OptiFine resourcepack support to FabricSkyboxes |
-| [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | [altrisi](https://www.curseforge.com/members/altrisi) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  |  | Fixes the game freezing when you open resource pack folders, a screenshot etc. |
-| [LittleTweaks](https://www.curseforge.com/minecraft/mc-mods/littletweaks) | [ImUrX](https://www.curseforge.com/members/imurx/projects) |  | &nbsp;&nbsp;✔️ |  |  |  | Adds the audio output option like 1.18 |
-| [Main Menu Credits](https://www.curseforge.com/minecraft/mc-mods/main-menu-credits) | [isXander](https://www.curseforge.com/members/xanderisdev) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds modpack's clickable version number in title screen's bottom corner |
-| [MidnightControls](https://www.curseforge.com/minecraft/mc-mods/midnightcontrols) | [TeamMidnightDust](https://www.curseforge.com/members/teammidnightdust) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds controller and touchscreen support - Bedrock parity! |
-| [MixinTrace](https://www.curseforge.com/minecraft/mc-mods/mixintrace) | [comp500](https://www.curseforge.com/members/comp500) |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Helps developers find the cause of crashes |
-| [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu) | [TerraformersMC](https://www.curseforge.com/members/TerraformersMC) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds a mod list with descriptions (keep bundled resource pack enabled for better experience!) |
-| [More Chat History](https://www.curseforge.com/minecraft/mc-mods/more-chat-history) | [JackFred2](https://www.curseforge.com/members/JackFred2) |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Increases chat history limit |
-| [No Chat Reports](https://www.curseforge.com/minecraft/mc-mods/no-chat-reports) | [Aizistral](https://www.curseforge.com/members/aizistral) |  |  |  | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Provides consistent chat status indicators and visual options |
-| [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) | [NatanFudge](https://www.curseforge.com/members/NatanFudge) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  |  | Allows playing after a crash and getting the crash report as a link |
-| [Your Options Shall Be Respected](https://www.curseforge.com/minecraft/mc-mods/yosbr) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Keeps your settings when updating the modpack |
-| [WI Zoom](https://www.curseforge.com/minecraft/mc-mods/wi-zoom) | [alexander9892](https://www.curseforge.com/members/alexander9892) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  |  | Adds a scrollable zoom feature |
-| [Zoomify](https://www.curseforge.com/minecraft/mc-mods/zoomify) | [isXander](https://www.curseforge.com/members/xanderisdev) | | | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Adds a scrollable and customizable zoom feature |
+## 功能(Functional)
+| 名称（Name）| 作者(Author)| 描述(Description)|
+|---|---|---|
 
-## Libraries
+## 前置库(Libraries)
 
+使其他模组工作的前置模组。在游戏内的模组菜单中被隐藏，但你不应该删除它们。
 Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
-| Name | Author | 1.16.5 | 1.17.1 | 1.18.2 | 1.19.4 | 1.20.1 | Description |
-|---|---|---|---|---|---|---|---|
+| 名称（Name）| 作者(Author)| 描述(Description)|
+|---|---|---|
 | [Architectury](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  |  | Makes some mods work |
 | [ARRP](https://www.curseforge.com/minecraft/mc-mods/arrp) | [one_point_o](https://www.curseforge.com/members/one_point_o) | | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ | Makes some mods work |
 | [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api) | [shedaniel](https://www.curseforge.com/members/shedaniel) | &nbsp;&nbsp;✔️ | &nbsp;&nbsp;✔️ |  |  |  | Makes some mods work |
