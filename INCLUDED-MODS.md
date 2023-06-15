@@ -25,7 +25,8 @@ If you want to remove it, you can do it yourself and kill it.
 
 ## 前置库(Libraries)
 
-使其他模组工作的前置模组。在游戏内的模组菜单中被隐藏，但你不应该删除它们。
+使其他模组工作的前置模组。在游戏内的模组菜单中被隐藏，但你不应该删除它们。  
+
 Mods that make other mods work. Hidden from in-game mod menu, but should not be removed.
 
 | 名称（Name）| 作者(Author)| 描述(Description)|
