@@ -41,4 +41,13 @@ These mods modify the way the client logic works to achieve what it needs to ach
 
 | 名称（Name）| 作者(Author)| 描述(Description)|
 |---|---|---|
-| [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger) | [shedaniel](https://www.curseforge.com/members/shedaniel/) | [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | Makes advancements larger, but has no filters and maybe less datapack/mod compat |
+| [Advancements Enlarger](https://www.curseforge.com/minecraft/mc-mods/advancements-enlarger) | [shedaniel](https://www.curseforge.com/members/shedaniel/) | [AdvancementInfo](https://www.curseforge.com/minecraft/mc-mods/advancementinfo) | Makes advancements larger, but has no filters and maybe less datapack/mod compat |  
+
+## 不必要的(Unnecessary)
+
+这些模组仅仅是我的社区的服务器需要它们，你完全可以删除它们或者使用其它类似的模组替代它们。但因为保留在整合包内几乎没有副作用，所以我具有私心的保留了它们。  
+
+These mods are only needed for my community's servers, and you can remove them or use other similar mods instead. But since there are almost no side effects to keeping them in the modpack, I have kept them for selfish reasons.  
+
+| 名称（Name）| 作者(Author)| 描述(Description)|
+|---|---|---|
