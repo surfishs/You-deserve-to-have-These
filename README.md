@@ -7,6 +7,7 @@
 ## 差异和特色
 
 [**📜模组列表**](INCLUDED-MODS.md)|[**✨English（Language）**](README_English.md)  
+[English is not my mother language, so I will not update the English introduction page very often, it may have translation errors, please understand.Sorry.]  
 完全客户端! (你可以在几乎所有的原版服务器上使用它！)  
 [⚠️警告：因为整合包包含修改游戏机制的客户端组件，因此在大多数PVP服务器和具有较严格反作弊的服务器上使用这个整合包会导致你被封禁。但这同时意味着在反作弊宽松的服务器上使用它是完全可行的！（主要会被判断为作弊的模组已经在模组列表标注，如果你想，你可以查看它们具体做了什么，并随时移除它们）]  
 ————————  
