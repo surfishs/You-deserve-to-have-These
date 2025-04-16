@@ -1,4 +1,4 @@
-# You deserve to have These
+# You deserve to have These Mods
 
 A fabric-based Minecraft modpack dedicated to allowing you to enjoy the features that should have belonged to Minecraft.  
 
