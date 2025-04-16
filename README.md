@@ -1,5 +1,4 @@
-# 「你理应拥有这些模组」
-You-deserve-to-have-These-Mods
+# 「你理应拥有这些模组」 You-deserve-to-have-These-Mods
 
 一个基于Farbic的Minecraft模组整合包，致力于让你享受到本该属于Minecraft的功能。  
 
